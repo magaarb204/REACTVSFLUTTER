@@ -51,6 +51,10 @@ Sin embargo, se observó que la aplicación desarrollada en Flutter respondió c
 En la aplicación desarrollada con React Native, la experiencia también fue adecuada, pero se percibió una pequeña demora al reflejar algunos cambios en pantalla, especialmente durante las acciones de actualización de datos.
 Esta diferencia fue mínima, pero sí perceptible durante la interacción directa con ambas aplicaciones bajo el mismo flujo de prueba.
 
+##Videos de prueba
+https://youtu.be/cS7KHI_6Ez4?si=kYj5sL9Qg_uih6Mu
+
+https://youtu.be/XJBElAbNHO8?si=t9wzz42cPl5aLxye
 ---
 ## 4. Tiempo de compilación
 
