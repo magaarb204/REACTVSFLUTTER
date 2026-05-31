@@ -52,8 +52,8 @@ En la aplicación desarrollada con React Native, la experiencia también fue ade
 Esta diferencia fue mínima, pero sí perceptible durante la interacción directa con ambas aplicaciones bajo el mismo flujo de prueba.
 
 ##Videos de prueba
-https://youtu.be/cS7KHI_6Ez4?si=kYj5sL9Qg_uih6Mu
 
+https://youtu.be/cS7KHI_6Ez4?si=kYj5sL9Qg_uih6Mu
 https://youtu.be/XJBElAbNHO8?si=t9wzz42cPl5aLxye
 ---
 ## 4. Tiempo de compilación
