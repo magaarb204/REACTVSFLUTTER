@@ -1,0 +1,25 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Expo generated native folders
+android/
+ios/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# TypeScript
+*.tsbuildinfo
